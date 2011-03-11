@@ -9,7 +9,7 @@ Adds a button to the WordPress visual editor which converts the selected text in
 
 == Description ==
 
-This plugin adds a buttons to [TinyMCE](http://tinymce.moxiecode.com/) which converts the selected text into a mailto link.
+Adds a button to the WordPress visual editor which converts the selected text into a mailto link.
 
 **Language Support:** English.
 
