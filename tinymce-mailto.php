@@ -3,7 +3,7 @@
 
 Plugin Name: TinyMCE MailTo
 Description: Adds a button to the visual editor which converts the selected text into a mailto link.
-Version: 1.0
+Version: 1.0.1
 Author: Colebridge Communications
 Author URI: http://colebridge.org/
 
