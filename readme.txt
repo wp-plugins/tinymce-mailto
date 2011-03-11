@@ -3,7 +3,7 @@ Contributors: davidrapson
 Tags: wysiwyg, tinymce, email, mail, mailto
 Requires at least: 2.9
 Tested up to: 3.1
-Stable tag: 1.0
+Stable tag: 1.0.1
 
 Adds a button to the WordPress visual editor which converts the selected text into a mailto link.
 
@@ -22,10 +22,13 @@ This plugin adds a buttons to [TinyMCE](http://tinymce.moxiecode.com/) which con
 
 == Changelog ==
 
+= 1.0.1 =
+Critical bug fix, incorrect filename causing plugin to fail.
+
 = 1.0 =
 Initial release.
 
 == Upgrade Notice ==
 
-= 1.0 =
-Initial release.
+= 1.0.1 =
+Critical bug fix, incorrect filename causing plugin to fail.
